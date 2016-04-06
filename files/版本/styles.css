@@ -17,7 +17,7 @@
   left:0px;
   top:0px;
   width:570px;
-  height:179px;
+  height:291px;
 }
 #u1 {
   position:absolute;
@@ -124,7 +124,7 @@
   left:0px;
   top:30px;
   width:100px;
-  height:84px;
+  height:196px;
   text-align:center;
 }
 #u9_img {
@@ -132,12 +132,12 @@
   left:0px;
   top:0px;
   width:100px;
-  height:84px;
+  height:196px;
 }
 #u10 {
   position:absolute;
   left:2px;
-  top:34px;
+  top:90px;
   width:96px;
   word-wrap:break-word;
 }
@@ -146,7 +146,7 @@
   left:100px;
   top:30px;
   width:100px;
-  height:84px;
+  height:196px;
   text-align:center;
 }
 #u11_img {
@@ -154,12 +154,12 @@
   left:0px;
   top:0px;
   width:100px;
-  height:84px;
+  height:196px;
 }
 #u12 {
   position:absolute;
   left:2px;
-  top:34px;
+  top:90px;
   width:96px;
   word-wrap:break-word;
 }
@@ -168,7 +168,7 @@
   left:200px;
   top:30px;
   width:100px;
-  height:84px;
+  height:196px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
@@ -179,12 +179,12 @@
   left:0px;
   top:0px;
   width:100px;
-  height:84px;
+  height:196px;
 }
 #u14 {
   position:absolute;
   left:2px;
-  top:36px;
+  top:92px;
   width:96px;
   word-wrap:break-word;
 }
@@ -193,7 +193,7 @@
   left:300px;
   top:30px;
   width:265px;
-  height:84px;
+  height:196px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
@@ -204,7 +204,7 @@
   left:0px;
   top:0px;
   width:265px;
-  height:84px;
+  height:196px;
 }
 #u16 {
   position:absolute;
@@ -216,7 +216,7 @@
 #u17 {
   position:absolute;
   left:0px;
-  top:114px;
+  top:226px;
   width:100px;
   height:30px;
   text-align:center;
@@ -239,7 +239,7 @@
 #u19 {
   position:absolute;
   left:100px;
-  top:114px;
+  top:226px;
   width:100px;
   height:30px;
   text-align:center;
@@ -262,7 +262,7 @@
 #u21 {
   position:absolute;
   left:200px;
-  top:114px;
+  top:226px;
   width:100px;
   height:30px;
   text-align:center;
@@ -285,7 +285,7 @@
 #u23 {
   position:absolute;
   left:300px;
-  top:114px;
+  top:226px;
   width:265px;
   height:30px;
   text-align:center;
@@ -308,7 +308,7 @@
 #u25 {
   position:absolute;
   left:0px;
-  top:144px;
+  top:256px;
   width:100px;
   height:30px;
   text-align:center;
@@ -331,7 +331,7 @@
 #u27 {
   position:absolute;
   left:100px;
-  top:144px;
+  top:256px;
   width:100px;
   height:30px;
   text-align:center;
@@ -354,7 +354,7 @@
 #u29 {
   position:absolute;
   left:200px;
-  top:144px;
+  top:256px;
   width:100px;
   height:30px;
   text-align:center;
@@ -377,7 +377,7 @@
 #u31 {
   position:absolute;
   left:300px;
-  top:144px;
+  top:256px;
   width:265px;
   height:30px;
   text-align:center;
