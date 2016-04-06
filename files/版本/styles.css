@@ -17,7 +17,7 @@
   left:0px;
   top:0px;
   width:570px;
-  height:291px;
+  height:305px;
 }
 #u1 {
   position:absolute;
@@ -218,7 +218,7 @@
   left:0px;
   top:226px;
   width:100px;
-  height:30px;
+  height:44px;
   text-align:center;
 }
 #u17_img {
@@ -226,14 +226,13 @@
   left:0px;
   top:0px;
   width:100px;
-  height:30px;
+  height:44px;
 }
 #u18 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:14px;
   width:96px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u19 {
@@ -241,7 +240,7 @@
   left:100px;
   top:226px;
   width:100px;
-  height:30px;
+  height:44px;
   text-align:center;
 }
 #u19_img {
@@ -249,14 +248,13 @@
   left:0px;
   top:0px;
   width:100px;
-  height:30px;
+  height:44px;
 }
 #u20 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:14px;
   width:96px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u21 {
@@ -264,7 +262,7 @@
   left:200px;
   top:226px;
   width:100px;
-  height:30px;
+  height:44px;
   text-align:center;
 }
 #u21_img {
@@ -272,14 +270,13 @@
   left:0px;
   top:0px;
   width:100px;
-  height:30px;
+  height:44px;
 }
 #u22 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:16px;
   width:96px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u23 {
@@ -287,7 +284,8 @@
   left:300px;
   top:226px;
   width:265px;
-  height:30px;
+  height:44px;
+  font-size:16px;
   text-align:center;
 }
 #u23_img {
@@ -295,20 +293,19 @@
   left:0px;
   top:0px;
   width:265px;
-  height:30px;
+  height:44px;
 }
 #u24 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:13px;
   width:261px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u25 {
   position:absolute;
   left:0px;
-  top:256px;
+  top:270px;
   width:100px;
   height:30px;
   text-align:center;
@@ -331,7 +328,7 @@
 #u27 {
   position:absolute;
   left:100px;
-  top:256px;
+  top:270px;
   width:100px;
   height:30px;
   text-align:center;
@@ -354,7 +351,7 @@
 #u29 {
   position:absolute;
   left:200px;
-  top:256px;
+  top:270px;
   width:100px;
   height:30px;
   text-align:center;
@@ -377,7 +374,7 @@
 #u31 {
   position:absolute;
   left:300px;
-  top:256px;
+  top:270px;
   width:265px;
   height:30px;
   text-align:center;
